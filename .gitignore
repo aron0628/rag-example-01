@@ -155,3 +155,7 @@ chroma_db/
 *.bin
 *.safetensors
 models/
+
+# Data files (PDF documents)
+*.pdf
+example/data/*.pdf
